@@ -1,9 +1,11 @@
 # Advent-of-code-day-1
 
 f = open("ac1.txt")
+
 count = 0
 pos = 50 #50
 num = 0
+
 for line in range(4776): #4776
     l = f.readline()
     l = l.strip()
