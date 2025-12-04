@@ -1,6 +1,6 @@
 # Advent-of-code-day-1
 
-f = open("ac1.txt"
+f = open("ac1.txt")
 count = 0
 pos = 50 #50
 num = 0
